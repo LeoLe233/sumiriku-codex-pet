@@ -1,6 +1,6 @@
 # Sumiriku Codex Pet
 
-Sumiriku is an animated custom pet for the Codex desktop app: an icy blue-and-white fox-wolf with green eyes, snow goggles, a gray jacket, and a fluffy tail.
+Sumiriku is an animated custom pet for the Codex desktop app: an blue-and-white cat with green eyes, goggles, a gray jacket, and a fluffy tail.
 
 | Idle | Jumping |
 | --- | --- |
@@ -68,3 +68,5 @@ The package layout follows the installed Codex `hatch-pet` skill. For the curren
 - `previews/` — animation previews for this page; not needed for installation.
 
 This repository preserves the existing Sumiriku artwork and its latest installed jumping animation. The published atlas passed the v2 validator with no errors or warnings.
+
+* Character Copyright Owned by LeoLe233
