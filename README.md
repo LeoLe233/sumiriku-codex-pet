@@ -69,4 +69,4 @@ The package layout follows the installed Codex `hatch-pet` skill. For the curren
 
 This repository preserves the existing Sumiriku artwork and its latest installed jumping animation. The published atlas passed the v2 validator with no errors or warnings.
 
-* Character Copyright Owned by LeoLe233
+## Character Copyright Owned by LeoLe233
